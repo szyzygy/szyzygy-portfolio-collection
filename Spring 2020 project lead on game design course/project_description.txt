@@ -1,0 +1,6 @@
+﻿in this project I lead a team of 3 other students in our course on the study of game design. 
+working together we built a basic top down shooter game and I assisted each member in both 
+art direction and code design. I also contributed a large amount of unity knowledge to the project.
+in this folder are the C# files I wrote or assited in writting. 
+
+here is a link to see the repository: https://github.com/szyzygy/the_indecisive_union

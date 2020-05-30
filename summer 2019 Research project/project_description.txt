@@ -1,0 +1,5 @@
+﻿These files are ones that I wrote and designed the majority of the code within
+This project was an educational game where me and another researcher were assisted by our professors to create a game which helps players understand the meaning and consequences of Propositional logic sentences. The game takes the form of an escape room based puzzle game where students must use logical thinking and clues to perform the actions in the game that make a given logical statement true and open a door. As one of two researchers we split our time effectively and communicated often to make deadlines set by our professors for deliverables. We used the unity3d game engine and I developed many of the 3-D models found within the game. 
+
+
+here is a link to see the repository: https://github.com/daranda97/nmt-game-project
