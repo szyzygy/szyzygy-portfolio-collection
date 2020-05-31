@@ -1,0 +1,4 @@
+﻿In this project I worked in a 4 person team designing a compiler for basic C code. In this project we used Java and JavaCC , an extension that helps with compiler design, to build the compiler. I was responsible throughout for helping design the documentation and parsing for the compiler, as well as the back end of the compiler translate or intermediate representation of C into usable Assembly code.
+
+
+here is a link to see the repository: https://github.com/nick41991/cs423Compiler_Spring2020

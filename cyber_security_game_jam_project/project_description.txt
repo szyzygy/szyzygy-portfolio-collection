@@ -1,0 +1,4 @@
+﻿In this project I worked in a 4 person team of friends in the Fall 2019 New mexico tech Cyber security game jam. Our team name was bamboo molasses and I served as a code writer and game designer in tandem with my teammates as we all pitched in for the game jam. This project won the game jam and we later were approached by the New Mexico tech Centers for CyberSecurity who wanted to fund the project for use as an outreach promotion. We continued work on the game as we received communication from the centers but there was an interruption and stoppage of communication following the outbreak scare of Coronavirus in march 2020. 
+
+
+here is a link to see the repository: https://github.com/daranda97/Bamboo_Molasses
